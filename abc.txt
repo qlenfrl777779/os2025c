@@ -1,0 +1,101 @@
+    1  touch week03.txt
+    2  git status
+    3  git add week03.txt
+    4  git commit -m "4th commit"
+    5  git add week03.txt
+    6  git add week03.txt
+    7  touch week03.txt
+    8  git add week03.txt
+    9  git log --oneline
+   10  touch week03.txt
+   11  git status
+   12  git add week03.txt
+   13  git init
+   14  git add week03.txt
+   15  git status
+   16  git commit -m "4th day"
+   17  git status
+   18  git log
+   19  git config --global user.email"rnrygus0132@gmail.com"
+   20  git config --global user.name"rnrygus0132"
+   21  git log
+   22  git config --list
+   23  git log
+   24  commit -m "4th day"
+   25  git commit -m "4th day"
+   26  git config --global user.email "rnrygus0132@gmail.com"
+   27  git config --global user.name "rnrygus0132"
+   28  git commit -m "4th day"
+   29  git log
+   30  git status week03.txt
+   31  cat week03.txt
+   32  echo "hell go~"
+   33  echo "Hello go~"
+   34  echo "Hello go~" >> week03.go
+   35  ls
+   36  cat week03.go
+   37  rm week03.go
+   38  git status
+   39  echo "This repository is for the Open Source Programming course in the Fall 2025 semester." >> README.md
+   40  git stutas
+   41  git status
+   42  git add .
+   43  git add README.nd
+   44  git add README.md
+   45  git commit -m "5th commit & README.md"
+   46  git status
+   47  git log --oneline
+   48  git chechout c940d01
+   49  git checkout -
+   50  git branch -M main
+   51  git status
+   52  git remote add origin https://github.com/qlenfrl777779/os2025c.git
+   53  git remote -v
+   54  git push -u origin main
+   55  git status
+   56  git clone https://github.com/qlenfrl777779/os2025c.git
+   57  ls
+   58  cd os2025c/
+   59  ls -a
+   60  git clone https://github.com/qlenfrl777779/os2025c.git .
+   61  ls
+   62  ls -a
+   63  git push -u origin main
+   64  git log --oneline
+   65  git log --oneline
+   66  git push
+   67  ls
+   68  git push
+   69  ls
+   70  git log
+   71  git init
+   72  git log
+   73  git add week01.txt
+   74  git commit -m "first commit"
+   75  git log
+   76  git add week02.txt
+   77  git commit -m " second commit"
+   78  git commit -m " 3rd commit"
+   79  git log
+   80  git push
+   81  git checkout c940d01a2d7c992e7ce43fb4d29f6f84b832dcb0
+   82  git log
+   83  git commit -m "4th commit
+   84  git commit -m "4th commit"
+   85  git checkout -
+   86  git checkout
+   87  git log
+   88  git checkout -
+   89  git log
+   90  git log
+   91  git checkout c940d01a2d7c992e7ce43fb4d29f6f84b832dcb0
+   92  git log
+   93  git commit -m "4th commit"
+   94  git log
+   95  git checkout -
+   96  git log
+   97  git clone https://github.com/qlenfrl777779/os2025c.git .
+   98  git log
+   99  git log
+  100  history
+  101  history >> abc.txt

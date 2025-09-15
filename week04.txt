@@ -1,6 +1,7 @@
 리눅스 명령어
 vi filename
 
+
 깃 명령어
 git commit --amend -m "수정할커밋메세지"
 - 적었던 메세지를 수정함
@@ -8,6 +9,5 @@ git commit --amend -m "수정할커밋메세지"
 git reset --hard HEAD~최근커밋부터삭제할갯수
 
 git fetch
-
 
 git pull
