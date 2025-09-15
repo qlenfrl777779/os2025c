@@ -11,3 +11,6 @@ git reset --hard HEAD~최근커밋부터삭제할갯수
 git fetch
 
 git pull
+깃허브에서 로컬로 가져옴
+
+esc + :wq!
