@@ -1,15 +1,13 @@
 package main
 
 import (
+	"bufio"
 	"fmt"
-	"reflect"
+	"os"
 )
 
 func main() {
-	var length float64 = 3.2
-	var width int = 2
-	fmt.Println("면적은", int(length)*width)
-	fmt.Println("length > width?", int(length) > width)
-	fmt.Println("형변환", reflect.TypeOf(length))
-	fmt.Println("원본", reflect.TypeOf(length))
+	r := bufio.NewReader(os.Stdin)
+	i, _ := r.ReadString('\n')
+	fmt.Println(i)
 }
