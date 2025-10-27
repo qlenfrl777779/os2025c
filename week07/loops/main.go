@@ -1,13 +1,11 @@
 package main
 
 import (
-	"bufio"
 	"fmt"
-	"os"
+	"math/rand"
 )
 
 func main() {
-	r := bufio.NewReader(os.Stdin)
-	i, _ := r.ReadString('\n')
-	fmt.Println(i)
+	dice := rand.Intn(6) + 1
+	fmt.Println(dice)
 }
