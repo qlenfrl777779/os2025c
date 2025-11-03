@@ -9,3 +9,4 @@ func main() {
 	dice := rand.Intn(6) + 1
 	fmt.Println(dice)
 }
+
